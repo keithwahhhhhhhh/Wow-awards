@@ -1,0 +1,33 @@
+img {
+    width: 250px;
+    width: 50%;
+    border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: outset red 10px;
+}
+
+.spider {
+    color: Red;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.title {
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    color: BLUE;
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/187161.jpg");
+}
+
+.movie {
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    font-size: 60px;
+    color: turquoise;
+}
